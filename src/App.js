@@ -39,6 +39,7 @@ const App = () => {
     <div className="container-fluid movie-app">
       <div className="row">
         <MovieList movies={movies}></MovieList>
+        
       </div>
     </div>
   )
